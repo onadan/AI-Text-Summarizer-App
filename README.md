@@ -16,8 +16,8 @@ This is a simple AI Text Summarizer application built with Node.js and Express. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/onadan/ai-text-summarizer-app.git
-   cd ai-text-summarizer
+   git clone https://github.com/onadan/AI-Text-Summarizer-App.git
+   cd ai-text-summarizer-app
    ```
 
 2. Install the dependencies:
